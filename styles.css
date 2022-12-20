@@ -56,6 +56,18 @@ footer {
   background-image: url("images/tom3.png");
 } 
 
+.z {
+  background-image: url("images/bell.png");
+  background-position: center left;
+  background-size: 200px;
+}
+
+.x {
+  background-image: url("images/triangle.png");
+  background-position: center ;
+  background-size: 200px;
+}
+
 .set {
   margin: 5% auto;
 }

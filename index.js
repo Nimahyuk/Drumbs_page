@@ -46,6 +46,14 @@ function elegirAudio(letra) {
             const audioElement7 = new Audio("./sounds/tom-4.mp3");
             audioElement7.play();
             break;
+        case "z":
+            const audioElement8 = new Audio("./sounds/christmas-bell.mp3");
+            audioElement8.play();
+            break;
+        case "x":
+            const audioElement9 = new Audio("./sounds/triangle.mp3");
+            audioElement9.play();
+            break;
         default:
             console.log("No existe este input");
     }
